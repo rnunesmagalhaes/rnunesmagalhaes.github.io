@@ -1,1 +1,1 @@
-Site pessoal, baseado no tema [Leonids](http://renyuanz.github.io/leonids)
+Site pessoal, baseado no tema Leonids: http://renyuanz.github.io/leonids
