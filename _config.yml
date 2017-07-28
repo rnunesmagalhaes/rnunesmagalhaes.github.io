@@ -1,4 +1,4 @@
-#
+﻿#
 ###################################
 # Site wide configuration
 ####################################
@@ -14,7 +14,7 @@ url: http://rmagalhaes.com
 # Jekyll configuration
 ####################################
 #
-timezone:          Brazil
+timezone:          
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
